@@ -4,4 +4,4 @@ seaborn
 wordcloud
 pandas
 numpy
-emoji
+emoji==1.7
